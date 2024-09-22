@@ -22,3 +22,20 @@ text-align: center;
 .navbar li {
     float: center;
 }
+
+
+.cody-table th{
+    color: beige;
+    background-color: darkgrey;
+    border-style: inset;
+    width:0%;
+    height: 3px;
+    padding: 5%;
+}
+.cody-table td{
+    color: blue;
+    background-color: darkgrey;
+    border-style: inset;
+    width:0%;
+    height: 3px;
+    padding: 5%;
